@@ -1,0 +1,18 @@
+#cake-banner1{
+    width: 49%;
+}
+/* #container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+} 
+*/
+#cake-banner2{
+    width: 51%;
+}
+#hero-unit{
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
